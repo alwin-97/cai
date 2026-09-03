@@ -1,0 +1,54 @@
+:root {
+  /* Color Palette - White / Light Academic Theme */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8fafc;
+  --bg-tertiary: #f1f5f9;
+  --bg-card: #ffffff;
+  --bg-card-hover: #ffffff;
+  --bg-glass: rgba(255, 255, 255, 0.92);
+  
+  /* Brand Accents */
+  --christ-gold: #b48a14;
+  --christ-gold-light: #946f04;
+  --christ-gold-bg: rgba(180, 138, 20, 0.08);
+  --christ-blue: #002147;
+  --christ-blue-light: #0a3a75;
+  
+  /* AI Tech Accents (Tailored for White Theme) */
+  --ai-cyan: #0284c7;
+  --ai-cyan-glow: rgba(2, 132, 199, 0.2);
+  --ai-blue: #0369a1;
+  --ai-purple: #7c3aed;
+  --ai-indigo: #4f46e5;
+  --ai-emerald: #059669;
+  --ai-amber: #d97706;
+  --ai-rose: #db2777;
+
+  /* Text Colors */
+  --text-primary: #0b192c;
+  --text-secondary: #475569;
+  --text-muted: #64748b;
+  --text-highlight: #0284c7;
+
+  /* Borders & Glass Effects */
+  --border-subtle: rgba(15, 23, 42, 0.08);
+  --border-card: #e2e8f0;
+  --border-card-hover: rgba(2, 132, 199, 0.4);
+  --glass-blur: blur(14px);
+
+  /* Shadows */
+  --shadow-card: 0 4px 20px -2px rgba(11, 25, 44, 0.06), 0 2px 6px -1px rgba(11, 25, 44, 0.04);
+  --shadow-card-hover: 0 16px 36px -4px rgba(11, 25, 44, 0.12), 0 6px 16px -2px rgba(11, 25, 44, 0.06);
+  --shadow-glow-cyan: 0 0 25px rgba(2, 132, 199, 0.18);
+  --shadow-glow-gold: 0 0 25px rgba(180, 138, 20, 0.2);
+
+  /* Typography */
+  --font-heading: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Transitions */
+  --transition-fast: 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
